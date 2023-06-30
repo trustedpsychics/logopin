@@ -1,8 +1,8 @@
 # Setup
-title:               uqnq
-tagline:             'uqnq.my.id'
+title:               eftyp
+tagline:             'eftyp blog'
 description:         'Blog <a href="https://uqnq.uqnq.my.id" target="_blank">uqnq</a> By <a href="https://twitter.com/uqnqid" target="_blank">@uqnqid</a>.'
-url:                 https://uqnq.uqnq.my.id
+url:                 https://eftyp.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
